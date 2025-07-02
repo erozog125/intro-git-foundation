@@ -1,0 +1,5 @@
+Nombre: Edwin Rozo
+Edad: 38
+Canal: Edwin dev
+Estatura: 1.58
+Peso: 100k
